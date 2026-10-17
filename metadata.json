@@ -1,0 +1,6 @@
+{
+  "name": "ShadowStrike",
+  "description": "Intense combat fighting training app with animated strike combos, interactive round timer, and training songs & YouTube link dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
